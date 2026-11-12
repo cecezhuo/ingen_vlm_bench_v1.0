@@ -1,2 +1,3 @@
 run_id,config,commit,seed,split,metric,outcome
 CNN_Full_Seed42,SmallCNN_epochs10_Adam_lr0.001_batch128,pending,42,full,test_accuracy,65.08%
+ResNet_Frozen_Full_Seed42,ResNet18_frozen_epochs10_Adam_lr0.001_batch64,pending,42,full,test_accuracy,79.48%
