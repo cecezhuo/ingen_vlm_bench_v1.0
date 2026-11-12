@@ -16,3 +16,4 @@ CNN_10Percent_Seed44,SmallCNN_epochs10_Adam_lr0.001_batch128,pending,44,10_perce
 ResNetFrozen_Full_Seed44,ResNet18Frozen_epochs10_Adam_lr0.001_batch64,pending,44,full,test_accuracy,79.42%
 ResNetFrozen_10Percent_Seed44,ResNet18Frozen_epochs10_Adam_lr0.001_batch64,pending,44,10_percent,test_accuracy,76.68%
 ResNetFineTuned_Full_Seed44,ResNet18FineTuned_epochs10_Adam_lr0.001_batch64,pending,44,full,test_accuracy,89.74%
+ResNetFineTuned_10Percent_Seed44,ResNet18FineTuned_epochs10_Adam_lr0.001_batch64,pending,44,10_percent,test_accuracy,79.33%
