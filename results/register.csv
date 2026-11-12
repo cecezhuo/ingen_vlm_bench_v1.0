@@ -11,3 +11,4 @@ ResNet_Frozen_Full_Seed43,ResNet18_frozen_epochs10_Adam_lr0.001_batch64,pending,
 ResNet_Finetune_Full_Seed43,ResNet18_finetune_epochs10_Adam_lr0.0001_batch64_mixedprecision,pending,43,full,test_accuracy,93.40%
 ResNet_Finetune_10Percent_Seed43,ResNet18_finetune_epochs10_Adam_lr0.0001_batch64_mixedprecision,pending,43,10_percent,test_accuracy,89.03%
 ResNet_Frozen_10Percent_Seed43,ResNet18_frozen_epochs10_Adam_lr0.001_batch64,pending,43,10_percent,test_accuracy,83.43%
+CNN_Full_Seed44,SmallCNN_epochs10_Adam_lr0.001_batch128,pending,44,full,test_accuracy,57.57%
