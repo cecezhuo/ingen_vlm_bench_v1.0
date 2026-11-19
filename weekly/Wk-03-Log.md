@@ -1,1 +1,13 @@
+# Week 3 Research Log
 
+This week, I focused on building the benchmark dataset for Fari's object recognition capabilities. I started by creating a bilingual taxonomy with 36 object categories across personal belongings, kitchen items, furniture, and safety-related situations. I then worked on collecting images from Open Images V7 and organizing them into a dataset. I ended up with 566 unique images representing 21 of the 36 categories.
+
+One thing I realized while building the dataset was that finding images for every category was harder than I expected. Some categories had clear matches in Open Images, while others only had broader or less specific alternatives. I decided not to treat these as exact matches when they weren't, and instead documented which categories were still missing. This is something I'll need to address in future iterations, especially because some of these objects may be important for Fari to recognize in real environments.
+
+I also spent time organizing the dataset so it could be used for more consistent evaluation. I divided the images into adaptation, validation, and test sets, created a frozen test manifest, and generated checksums to help make sure the test images don't change. During the process, I used perceptual hashing to look for near-duplicate images and found one pair that appeared to show essentially the same object and composition. I reviewed the pair and removed one of the images.
+
+Besides the dataset itself, I created a pipeline for testing different image corruptions, including changes in brightness, Gaussian noise, motion blur, defocus blur, and JPEG compression. I tested all 15 corruption and severity combinations. I also put together a sample contact sheet, a list of potential hard cases, and documentation describing the dataset and its limitations.
+
+There are still a few things I haven't finished. I prepared templates for a blind label audit and a second-reader review, but the actual reviews and Cohen's kappa calculation are still pending. I also wrote a script for rebuilding the dataset using the official Open Images downloader. So far, I've only tested it on one sample image, rather than the entire dataset.
+
+Overall, this week made me realize how much thought goes into creating a reliable benchmark. Collecting images is only one part of the process. The way images are labeled, divided into splits, and checked for duplicates can all affect the evaluation results. Moving forward, I want to complete the label reviews, work on filling the missing categories, and eventually collect images from viewpoints closer to what Fari would actually see through its camera.
