@@ -1,58 +1,58 @@
 image_id,image_path,blind_relabel,review_date,reviewer_notes
-f3ea587606734ea0,data/images/open_images/f3ea587606734ea0.jpg,,,
-e916dd0b766b2f40,data/images/open_images/e916dd0b766b2f40.jpg,,,
-6b298b733869bcec,data/images/open_images/6b298b733869bcec.jpg,,,
-ea1f6d8b3ad4a5dd,data/images/open_images/ea1f6d8b3ad4a5dd.jpg,,,
-d871866d69f583d1,data/images/open_images/d871866d69f583d1.jpg,,,
-9036157b782b13e5,data/images/open_images/9036157b782b13e5.jpg,,,
-7408fef212a5d3bc,data/images/open_images/7408fef212a5d3bc.jpg,,,
-db9848b711c72bc5,data/images/open_images/db9848b711c72bc5.jpg,,,
-bdb8abb449444489,data/images/open_images/bdb8abb449444489.jpg,,,
-66a342dcdafc7607,data/images/open_images/66a342dcdafc7607.jpg,,,
-1b8500e0e4938e77,data/images/open_images/1b8500e0e4938e77.jpg,,,
-41706007fc77bff2,data/images/open_images/41706007fc77bff2.jpg,,,
-757d492ef9ba0392,data/images/open_images/757d492ef9ba0392.jpg,,,
-5991aecc161bb5c8,data/images/open_images/5991aecc161bb5c8.jpg,,,
-bc37ccba2857d1e7,data/images/open_images/bc37ccba2857d1e7.jpg,,,
-42c36ba3ef87c91f,data/images/open_images/42c36ba3ef87c91f.jpg,,,
-825bb1e7a2f9c598,data/images/open_images/825bb1e7a2f9c598.jpg,,,
-c8a4a4786eea0ec5,data/images/open_images/c8a4a4786eea0ec5.jpg,,,
-ed52f03ad1a8ef84,data/images/open_images/ed52f03ad1a8ef84.jpg,,,
-3533eda1686bad39,data/images/open_images/3533eda1686bad39.jpg,,,
-3fcd4d7ee5c3b03d,data/images/open_images/3fcd4d7ee5c3b03d.jpg,,,
-4c74600e9138e5d8,data/images/open_images/4c74600e9138e5d8.jpg,,,
-61ad317ddcfdb148,data/images/open_images/61ad317ddcfdb148.jpg,,,
-743dbcab02a9971e,data/images/open_images/743dbcab02a9971e.jpg,,,
-d8af5e9c82380fe5,data/images/open_images/d8af5e9c82380fe5.jpg,,,
-47eaa7237b045bce,data/images/open_images/47eaa7237b045bce.jpg,,,
-0344cade36bbd4f4,data/images/open_images/0344cade36bbd4f4.jpg,,,
-2a0905a2ff63f09e,data/images/open_images/2a0905a2ff63f09e.jpg,,,
-6261fb5e6bc208be,data/images/open_images/6261fb5e6bc208be.jpg,,,
-7491dc5b881626cd,data/images/open_images/7491dc5b881626cd.jpg,,,
-db0499337b67676d,data/images/open_images/db0499337b67676d.jpg,,,
-172a9a6ce2fd2fe8,data/images/open_images/172a9a6ce2fd2fe8.jpg,,,
-02bc8361b1beb582,data/images/open_images/02bc8361b1beb582.jpg,,,
-1e6104d5518cb3f9,data/images/open_images/1e6104d5518cb3f9.jpg,,,
-fa50309ada7120e0,data/images/open_images/fa50309ada7120e0.jpg,,,
-f1ea6128c736f9cd,data/images/open_images/f1ea6128c736f9cd.jpg,,,
-19c9b309c8709868,data/images/open_images/19c9b309c8709868.jpg,,,
-1b8b495f818a78f2,data/images/open_images/1b8b495f818a78f2.jpg,,,
-4519876dccf2ad06,data/images/open_images/4519876dccf2ad06.jpg,,,
-74142e7a66727260,data/images/open_images/74142e7a66727260.jpg,,,
-91c98f28c55fa147,data/images/open_images/91c98f28c55fa147.jpg,,,
-9e6dcbec738debb7,data/images/open_images/9e6dcbec738debb7.jpg,,,
-274b93016f1073da,data/images/open_images/274b93016f1073da.jpg,,,
-a11067b5e93dd4e7,data/images/open_images/a11067b5e93dd4e7.jpg,,,
-07730619ae04b496,data/images/open_images/07730619ae04b496.jpg,,,
-0cc863049519f490,data/images/open_images/0cc863049519f490.jpg,,,
-ccbbb3175f571466,data/images/open_images/ccbbb3175f571466.jpg,,,
-a4afbc7697bdf23c,data/images/open_images/a4afbc7697bdf23c.jpg,,,
-ad603c5d675930d1,data/images/open_images/ad603c5d675930d1.jpg,,,
-19aa0e0ad2fa06b6,data/images/open_images/19aa0e0ad2fa06b6.jpg,,,
-3b24969867312817,data/images/open_images/3b24969867312817.jpg,,,
-0908dd33cf950266,data/images/open_images/0908dd33cf950266.jpg,,,
-fa9de6b1c3598680,data/images/open_images/fa9de6b1c3598680.jpg,,,
-19a0aafe6ab92d0e,data/images/open_images/19a0aafe6ab92d0e.jpg,,,
-00794645d77184eb,data/images/open_images/00794645d77184eb.jpg,,,
-5e7860330b1ce233,data/images/open_images/5e7860330b1ce233.jpg,,,
-d03b9c37cc6ceda1,data/images/open_images/d03b9c37cc6ceda1.jpg,,,
+f3ea587606734ea0,data/images/open_images/f3ea587606734ea0.jpg,K08;K03,2026-11-18,Forks and plate visible; noodles not in taxonomy.
+e916dd0b766b2f40,data/images/open_images/e916dd0b766b2f40.jpg,F02;F04;F09,2026-11-18,"Couch, table, and lamp visible."
+6b298b733869bcec,data/images/open_images/6b298b733869bcec.jpg,K09,2026-11-18,Two knives visible.
+ea1f6d8b3ad4a5dd,data/images/open_images/ea1f6d8b3ad4a5dd.jpg,P08;P02,2026-11-18,Headphones and glasses visible.
+d871866d69f583d1,data/images/open_images/d871866d69f583d1.jpg,P08,2026-11-18,Headphones visible.
+9036157b782b13e5,data/images/open_images/9036157b782b13e5.jpg,,2026-11-18,"Slide, toys, and child visible; none match current taxonomy."
+7408fef212a5d3bc,data/images/open_images/7408fef212a5d3bc.jpg,,2026-11-18,Keyboard and laptop visible; neither is in taxonomy.
+db9848b711c72bc5,data/images/open_images/db9848b711c72bc5.jpg,S04,2026-11-18,Obstructed walkway visible.
+bdb8abb449444489,data/images/open_images/bdb8abb449444489.jpg,K08;K03,2026-11-18,Fork and plate visible.
+66a342dcdafc7607,data/images/open_images/66a342dcdafc7607.jpg,P10,2026-11-18,Watch visible.
+1b8500e0e4938e77,data/images/open_images/1b8500e0e4938e77.jpg,F02;F04,2026-11-18,Couch and table visible.
+41706007fc77bff2,data/images/open_images/41706007fc77bff2.jpg,F07,2026-11-18,Stairs visible.
+757d492ef9ba0392,data/images/open_images/757d492ef9ba0392.jpg,,2026-11-18,Clock visible; not in taxonomy.
+5991aecc161bb5c8,data/images/open_images/5991aecc161bb5c8.jpg,F03;F09,2026-11-18,Bed and lamp visible.
+bc37ccba2857d1e7,data/images/open_images/bc37ccba2857d1e7.jpg,P02;P08,2026-11-18,Glasses and headphones visible.
+42c36ba3ef87c91f,data/images/open_images/42c36ba3ef87c91f.jpg,,2026-11-18,Swimming goggles visible; not in taxonomy.
+825bb1e7a2f9c598,data/images/open_images/825bb1e7a2f9c598.jpg,,2026-11-18,Porcelain pitcher visible; not in taxonomy.
+c8a4a4786eea0ec5,data/images/open_images/c8a4a4786eea0ec5.jpg,F01;F04,2026-11-18,Chair and table visible; mirror not in taxonomy.
+ed52f03ad1a8ef84,data/images/open_images/ed52f03ad1a8ef84.jpg,K01,2026-11-18,Mug visible.
+3533eda1686bad39,data/images/open_images/3533eda1686bad39.jpg,P06,2026-11-18,Remote control visible.
+3fcd4d7ee5c3b03d,data/images/open_images/3fcd4d7ee5c3b03d.jpg,P06;P03,2026-11-18,Remote control and phone visible.
+4c74600e9138e5d8,data/images/open_images/4c74600e9138e5d8.jpg,P02,2026-11-18,Glasses visible.
+61ad317ddcfdb148,data/images/open_images/61ad317ddcfdb148.jpg,K01,2026-11-18,Laptop and mug visible; laptop not in taxonomy.
+743dbcab02a9971e,data/images/open_images/743dbcab02a9971e.jpg,F09,2026-11-18,Lamp visible.
+d8af5e9c82380fe5,data/images/open_images/d8af5e9c82380fe5.jpg,F04;F01;F09;F10,2026-11-18,"Table, chair, lamp, and window visible."
+47eaa7237b045bce,data/images/open_images/47eaa7237b045bce.jpg,P10,2026-11-18,Watch visible.
+0344cade36bbd4f4,data/images/open_images/0344cade36bbd4f4.jpg,K01;K03;K07,2026-11-18,"Cup, plate, and spoon visible."
+2a0905a2ff63f09e,data/images/open_images/2a0905a2ff63f09e.jpg,F10;F06;F01;F04;F09,2026-11-18,"Window, door, chair, table, and lamp visible."
+6261fb5e6bc208be,data/images/open_images/6261fb5e6bc208be.jpg,F01;F04,2026-11-18,"Chair and table visible; printer, laptop, keyboard, and painting not in taxonomy."
+7491dc5b881626cd,data/images/open_images/7491dc5b881626cd.jpg,P07,2026-11-18,Backpack visible.
+db0499337b67676d,data/images/open_images/db0499337b67676d.jpg,,2026-11-18,Pumpkin visible; not in taxonomy.
+172a9a6ce2fd2fe8,data/images/open_images/172a9a6ce2fd2fe8.jpg,K07,2026-11-18,Spoon visible.
+02bc8361b1beb582,data/images/open_images/02bc8361b1beb582.jpg,P06,2026-11-18,Remote control visible.
+1e6104d5518cb3f9,data/images/open_images/1e6104d5518cb3f9.jpg,K01;K07,2026-11-18,Mug and spoon visible.
+fa50309ada7120e0,data/images/open_images/fa50309ada7120e0.jpg,P06,2026-11-18,Remote control visible.
+f1ea6128c736f9cd,data/images/open_images/f1ea6128c736f9cd.jpg,P08,2026-11-18,Headphones visible.
+19c9b309c8709868,data/images/open_images/19c9b309c8709868.jpg,,2026-11-18,Fire visible; not in taxonomy.
+1b8b495f818a78f2,data/images/open_images/1b8b495f818a78f2.jpg,,2026-11-18,Pitcher visible; not in taxonomy.
+4519876dccf2ad06,data/images/open_images/4519876dccf2ad06.jpg,K01,2026-11-18,Mug visible.
+74142e7a66727260,data/images/open_images/74142e7a66727260.jpg,F06,2026-11-18,Door visible.
+91c98f28c55fa147,data/images/open_images/91c98f28c55fa147.jpg,F09,2026-11-18,Lamp visible.
+9e6dcbec738debb7,data/images/open_images/9e6dcbec738debb7.jpg,P09,2026-11-18,Book visible.
+274b93016f1073da,data/images/open_images/274b93016f1073da.jpg,,2026-11-18,Pitcher visible; not in taxonomy.
+a11067b5e93dd4e7,data/images/open_images/a11067b5e93dd4e7.jpg,P06,2026-11-18,Remote control visible.
+07730619ae04b496,data/images/open_images/07730619ae04b496.jpg,P06,2026-11-18,Remote control and TV visible; TV not in taxonomy.
+0cc863049519f490,data/images/open_images/0cc863049519f490.jpg,,2026-11-18,Pitcher visible; not in taxonomy.
+ccbbb3175f571466,data/images/open_images/ccbbb3175f571466.jpg,K02;K03;K08;K09,2026-11-18,"Plate, fork, knife, and drinking glass visible."
+a4afbc7697bdf23c,data/images/open_images/a4afbc7697bdf23c.jpg,P09,2026-11-18,Book visible.
+ad603c5d675930d1,data/images/open_images/ad603c5d675930d1.jpg,K04,2026-11-18,Bowl visible.
+19aa0e0ad2fa06b6,data/images/open_images/19aa0e0ad2fa06b6.jpg,P09,2026-11-18,Book visible.
+3b24969867312817,data/images/open_images/3b24969867312817.jpg,F07,2026-11-18,Stairs visible.
+0908dd33cf950266,data/images/open_images/0908dd33cf950266.jpg,P08,2026-11-18,Headphones visible.
+fa9de6b1c3598680,data/images/open_images/fa9de6b1c3598680.jpg,K07,2026-11-18,Spoon visible.
+19a0aafe6ab92d0e,data/images/open_images/19a0aafe6ab92d0e.jpg,P07,2026-11-18,Backpack visible.
+00794645d77184eb,data/images/open_images/00794645d77184eb.jpg,,2026-11-18,Shed visible; not in taxonomy.
+5e7860330b1ce233,data/images/open_images/5e7860330b1ce233.jpg,F10,2026-11-18,Window visible.
+d03b9c37cc6ceda1,data/images/open_images/d03b9c37cc6ceda1.jpg,K07;K08,2026-11-18,Spoon and fork visible.
