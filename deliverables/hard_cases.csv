@@ -1,0 +1,6 @@
+image_id,image_path,source,license,author,source_url,class_ids,english_labels,open_images_split,lighting,clutter,viewpoint,benchmark_split
+20406256853c0e5c,data/images/open_images/20406256853c0e5c.jpg,Open Images,https://creativecommons.org/licenses/by/2.0/,- PALADIN WORKS -,https://www.flickr.com/photos/dindut/3746804404,K07;K08,Fork;Spoon,validation,unknown,unknown,unknown,test
+2a0905a2ff63f09e,data/images/open_images/2a0905a2ff63f09e.jpg,Open Images,https://creativecommons.org/licenses/by/2.0/,Arnie Papp,https://www.flickr.com/photos/apapp/8069880438,F01;F04;F05,Chair;Desk;Table,validation,unknown,unknown,unknown,validation
+2b5a92af4b57d139,data/images/open_images/2b5a92af4b57d139.jpg,Open Images,https://creativecommons.org/licenses/by/2.0/,Phil Long,https://www.flickr.com/photos/skyfire/4199897963,F06;F10,Door;Window,validation,unknown,unknown,unknown,test
+361742ff1a64af93,data/images/open_images/361742ff1a64af93.jpg,Open Images,https://creativecommons.org/licenses/by/2.0/,Kevin Wong,https://www.flickr.com/photos/-marlith-/2260767359,F07;F10,Stairs;Window,validation,unknown,unknown,unknown,test
+3b3b9931325d65c9,data/images/open_images/3b3b9931325d65c9.jpg,Open Images,https://creativecommons.org/licenses/by/2.0/,b r e n t,https://www.flickr.com/photos/bmh4you/6784465667,F05;P09,Book;Desk,validation,unknown,unknown,unknown,test
