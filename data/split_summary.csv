@@ -1,0 +1,4 @@
+benchmark_split,image_count
+validation,260
+test,257
+adaptation,49

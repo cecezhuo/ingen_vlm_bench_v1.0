@@ -1,0 +1,16 @@
+class_id,taxonomy_label,open_images_candidate,assessment
+P01,Keys,,No suitable match found
+P03,Phone,Mobile phone,Good match
+P04,Wallet,,No suitable match found
+P05,Medicine bottle,Bottle,Too broad
+K02,Drinking glass,Wine glass,Partial match
+K05,Water bottle,Bottle,Too broad
+K10,Food container,Container,Too broad
+F02,Sofa,Couch,Good match
+F08,Cabinet,Cabinetry,Needs review
+S01,Object on floor,,No suitable match found
+S02,Spilled liquid,,No suitable match found
+S03,Open door,,No suitable match found
+S04,Obstructed walkway,,No suitable match found
+S05,Open cabinet,,No suitable match found
+S06,Fallen object,,No suitable match found
