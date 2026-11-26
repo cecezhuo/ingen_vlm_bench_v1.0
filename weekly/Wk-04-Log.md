@@ -1,0 +1,11 @@
+# Week 4 Log: Zero-Shot Baselines
+
+This week, I evaluated three vision-language models for zero-shot object recognition: OpenCLIP, Chinese-CLIP, and SigLIP2. The benchmark contained 566 images across 36 object classes, with 260 validation images and 257 test images. I compared model performance using Top-1 accuracy, Top-5 accuracy, and Macro-F1, and also examined prompt wording, language choice, and confidence calibration.
+
+OpenCLIP was the strongest baseline. With a 10-template prompt ensemble, it achieved 68.1% Top-1 accuracy and 91.8% Top-5 accuracy on the test set. Chinese-CLIP performed best with Mandarin class labels, reaching 63.4% Top-1 and 88.7% Top-5 accuracy. This was higher than its performance with English labels, suggesting that using labels in the model’s associated language can improve recognition.
+
+The most surprising result was SigLIP2’s very low performance. It reached only 3.1% Top-1 accuracy and 17.1% Top-5 accuracy on the test set. I checked the model, tokenizer, embedding similarities, and prediction ranking to look for a simple implementation or scoring error, but the low result remained. Its 95% confidence interval for Top-1 accuracy was 1.2%–5.4%. With 36 classes, uniform random guessing would be about 2.8%, which falls inside this interval. Therefore, the result does not provide strong evidence that SigLIP2 performed above a uniform-guessing baseline on this benchmark. It also does not establish that SigLIP2 is generally ineffective, since the result may depend on the current model setup, labels, and dataset.
+
+Prompt wording had a clear effect: the photo prompt improved OpenCLIP validation Top-1 accuracy from 59.6% with bare labels to 67.7%. The 10-template ensemble reached 68.1%. I also calibrated OpenCLIP’s confidence using validation data; test expected calibration error decreased from 0.6498 to 0.0903 while accuracy stayed the same.
+
+One limitation was that lighting, clutter, and viewpoint metadata were mostly unknown, so I could not make reliable per-slice comparisons. Overall, the experiments establish OpenCLIP as the strongest baseline so far, while highlighting the importance of prompts, language, and careful interpretation of model results.
